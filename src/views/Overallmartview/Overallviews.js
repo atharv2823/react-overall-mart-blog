@@ -6,7 +6,7 @@ export default function Overallviews() {
 
   const { id } = useParams()
 
-  const selectedmartcards = martcards.find((martcardsObject) =>  martcardsObject.id === id )
+  const selectedmartcards = martcards.find((cardsObject) =>  cardsObject.id === id )
 
   return (
     <div>

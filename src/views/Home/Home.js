@@ -9,7 +9,7 @@ export default function Home() {
 
     <div className="cards-container">
    {
-    cardsdata.map((cardsdataObject , i) => {
+    cardsdata.map((cardsObject , i) => {
       
       const { 
          id,
@@ -18,7 +18,7 @@ export default function Home() {
          image,
          price,
          specification,
-      } = cardsdataObject
+      } = cardsObject
 
       return (
        <martcards
