@@ -1,0 +1,10 @@
+.Heading{
+    text-align: center;
+    background-color: #cc8585;
+    width: 90%;
+    box-shadow: 10,10,10,10,black;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
