@@ -1,12 +1,12 @@
 import "./Overallviews.css"
 import { useParams } from "react-router-dom"
-import martcards from "./../../data"
+import cardsdata from "./../../data"
 
 export default function Overallviews() {
 
   const { id } = useParams()
 
-  const selectedmartcards = martcards.find((cardsObject) =>  cardsObject.id === id )
+  const selectedmartcards = cardsdata.find((cardObject) =>  cardObject.id === id )
 
   return (
     <div>

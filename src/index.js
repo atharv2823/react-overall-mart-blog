@@ -1,7 +1,8 @@
-import React from 'react';
+
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Home from "./views/Home/Home"
+import martcards from './components/martcards/martcards';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

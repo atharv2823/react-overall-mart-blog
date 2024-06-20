@@ -1,6 +1,6 @@
 import "./Home.css"
-import martcards from "../../components/martcards/martcards";
 import cardsdata from "./../../data"
+import martcards from "../../components/martcards/martcards"
 
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
 
     <div className="cards-container">
    {
-    cardsdata.map((cardsObject , i) => {
+    cardsdata.map((cardObject , i) => {
       
       const { 
          id,
@@ -18,7 +18,7 @@ export default function Home() {
          image,
          price,
          specification,
-      } = cardsObject
+      } = cardObject
 
       return (
        <martcards
