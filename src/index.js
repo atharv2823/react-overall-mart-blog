@@ -1,8 +1,6 @@
-
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Home from "./views/Home/Home"
-import MartCards from './components/Martcards/MartCards';
 import Detailviews from './views/OverallMartview/Detailviews';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
