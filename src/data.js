@@ -15,7 +15,7 @@ const cards = [
         price: 55000,
         description: "Samsung Galaxy S22 Ultra",
         specification: "12GB RAM 256GB ROM 17.02 cm(6.8 inch) Dynamic AMOLED Display 108MP + 40MP | 40MP Front Camera Qualcomm Snapdragon 8 Gen 1 Processor",
-        image: "https://www.reliancedigital.in/medias/Samsung-Galaxy-S22-Ultra-Smartphones-491997701-i-1-1200Wx1200Hcontext=bWFzdGVyfGltYWdlc3w ",
+        image: "https://cdn.dxomark.com/wp-content/uploads/medias/post-107405/Samsung-Galaxy-S22-Ultra-featured-image-packshot-review-Recovered.jpg ",
     },
     {
         id: "3",
@@ -23,15 +23,15 @@ const cards = [
         price: 45000,
         description: "OnePlus 9 Pro",
         specification: "8GB RAM 128GB ROM 16.64 cm(6.7inch) AMOLED Display 48MP + 16MP | 16MP Front Camera Qualcomm Snapdragon 888 5G Processor",
-        image: "https://www.reliancedigital.in/medias/OnePlus-9Pro-Smartphones-491997703-i-1-1200Wx1200H",
+        image: "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708678509/Croma%20Assets/Communication/Mobiles/Images/269147_0_cbzg4k.png?tr=w-600",
     },
     {
         id: "4",
         title: "Google",
         price: 35000,
         description: "Google Pixel 6",
-        specification: "8GB RAM 128GB ROM 15.82 cm(6.2inch) OLED Display 50MP + 12MP | 8MP Front Camera Google TensorProcessor",
-        image: "https://www.reliancedigital.in/medias/Google-Pixel-6-Smartphones-491997704-i-1-1200Wx1200H",
+        specification: "8GB RAM 128GB ROM 15.24 cm(6 inch) OLED Display 50MP + 12MP | 8MP Front Camera Google Tensor Processor",
+        image: "https://cdn.dxomark.com/wp-content/uploads/medias/post-160143/Google-Pixel-8-featured-image-packshot-review-Recovered-1024x691.jpg"
 
     },
     {
@@ -49,11 +49,11 @@ const cards = [
         price: 15000,
         description: "Canon EOS 1500D",
         specification: "24.1MP APS-C CMOS Sensor | DIGIC 4+ Image Processor | 9-Point AF System | 3.0-inch LCD Screen | Full HD Video Recording | Wi-Fi, NFC, and Bluetooth Connectivity",
-        image: "https://www.reliancedigital.in/medias/Canon-EOS-1500D-Digital-Camera-491997705-i-1-1200Wx1200H"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0KBwxeGlOYOyvTm0qOPnTMwUoP-fx3ar_A&s"
     },
     {
         id: "7",
-        title: "Noice",
+        title: "Noice-smart Watch",
         price: 10000,
         description: "Noise ColorFit Pro 3",
         specification: "1.55-inch HD Display | Heart Rate Monitoring | Blood Oxygen Level Monitoring |SpO2 Monitoring | Sleep Tracking | 10 Days Battery Life | IP67 Water Resistant |Compatible with Android and iOS Devices",
@@ -62,11 +62,11 @@ const cards = [
     },
     {
         id: "8",
-        title:"Lnovo",
+        title:"Lnovo-Laptop",
         price : "100000",
         description: "Lenovo Cool-pad",
         specification: "6.6-inch FHD+ Display | 12GB RAM | 256GB ROM | 48MP + 8MP + 2MP + 2MP Rear Camera 16MP Front Camera | Qualcomm Snapdragon 888 5G Processor | 4500mAh Battery | Fast Charging",
-        image: "https://www.reliancedigital.in/medias/Lenovo-Coolpad-Smartphones-491997706-i-1-1200Wx1200H"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWAviTn32Nrqkbld8SqplcWqwvYziCZmyJg&s"
     }
 
 ]

@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 5px;
+}
+.Heading{
+    text-align: center;
+    background-color: #cc8585;
+    width: 90%;
+    box-shadow: 10,10,10,10,black;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ovrall-img{
+    height: 500px;
+    width: 600px;
+   display: block;
+   margin: 10px auto;
+}
+.Brand-heading{
+    text-align: center;
+
+}
+.Model-name{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.Price{
+    font-size: 18px;
+    color: #ff69b4;
+    font-weight: bold;
+
+}
+.span{
+    color: black;
+}
+.Add-to-cart{
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+    background-color: orange;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px auto;
+    font-size: 20px;
+}
+.Add-to-cart:hover{
+    background-color: green;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.Buy{
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+    background-color: orange;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px auto;
+    font-size: 20px;
+}
+.Buy:hover{
+    background-color: green;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.span1{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}

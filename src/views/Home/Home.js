@@ -1,6 +1,6 @@
 import "./Home.css"
 import cardsdata from "./../../data"
-import martcards from "../../components/martcards/martcards"
+import MartCards from "../../components/Martcards/MartCards"
 
 
 export default function Home() {
@@ -21,7 +21,7 @@ export default function Home() {
       } = cardObject
 
       return (
-       <martcards
+       <MartCards
        key={i}
        id={id}
        title={title}
