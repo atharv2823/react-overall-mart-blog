@@ -12,7 +12,7 @@ export default function Detailviews() {
   <h1 className="Heading">OverAll-Mart</h1>
     <div>
       <p>
-        <img src={selectedmartcards.image} alt="image" className="ovrall-img" />
+        <img src={selectedmartcards.image} alt="product" className="ovrall-img" />
       </p>
       <h1 className="Brand-heading">{selectedmartcards.title}</h1>
       <hr></hr>
