@@ -1,6 +1,6 @@
 import "./Home.css"
 import cardsdata from "./../../data"
-import MartCards from "../../components/MartCards/MartCards"
+import MartCards from "./../../components/MartCards/MartCards"
 
 
 export default function Home() {
