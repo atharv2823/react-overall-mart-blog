@@ -62,7 +62,7 @@ const cards = [
     },
     {
         id: "8",
-        title:"Lnovo-Laptop",
+        title:"Lenovo-Laptop",
         price : "100000",
         description: "Lenovo Cool-pad",
         specification: "6.6-inch FHD+ Display | 12GB RAM | 256GB ROM | 48MP + 8MP + 2MP + 2MP Rear Camera 16MP Front Camera | Qualcomm Snapdragon 888 5G Processor | 4500mAh Battery | Fast Charging",
