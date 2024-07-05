@@ -1,4 +1,4 @@
-import "./MartCards.css"
+import "./MartCard.css"
 import { Link } from "react-router-dom"
 
 export default function MartCards( {id,title,image}) {
